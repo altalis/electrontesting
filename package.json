@@ -1,0 +1,24 @@
+{
+  "name": "electrontesting",
+  "version": "0.0.1",
+  "description": "Testing Electron",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^9.1.0"
+  },
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/altalis/electrontesting.git"
+  },
+  "author": "daniel valverde",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/altalis/electrontesting/issues"
+  },
+  "homepage": "https://github.com/altalis/electrontesting#readme"
+}
